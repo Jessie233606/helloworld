@@ -1,0 +1,13 @@
+E:\代码\Code\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+E:\代码\Code\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+E:\代码\Code\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+E:\代码\Code\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+E:\代码\Code\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+E:\代码\Code\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+E:\代码\Code\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache
